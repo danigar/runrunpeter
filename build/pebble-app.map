@@ -1,28 +1,30 @@
 Archive member included because of file (symbol)
 
 /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                              src/Ubicua.c.17.o (app_event_loop)
+                              src/Ubicua.c.18.o (app_event_loop)
 
 Allocating common symbols
 Common symbol       size              file
 
-imageScores         0x4               src/box.c.17.o
-menu_activity       0x18              src/Ubicua.c.17.o
-scores              0x4               src/box.c.17.o
-peter               0x4               src/box.c.17.o
-box                 0x4               src/box.c.17.o
-frameScoresLayout   0x4               src/box.c.17.o
-boxes               0x4               src/box.c.17.o
-scores_activity     0x18              src/box.c.17.o
-final_score_layer   0x4               src/box.c.17.o
-imageMenu           0x4               src/Ubicua.c.17.o
-varCompartida       0x4               src/Ubicua.c.17.o
-level               0x4               src/box.c.17.o
-window_struct       0x18              src/box.c.17.o
-playBox             0x1               src/box.c.17.o
-animate             0x1               src/box.c.17.o
-lastDisplayed       0x4               src/box.c.17.o
-frameMenuLayout     0x4               src/Ubicua.c.17.o
+imageScores         0x4               src/box.c.18.o
+menu_activity       0x18              src/Ubicua.c.18.o
+scores              0x4               src/box.c.18.o
+peter               0x4               src/box.c.18.o
+box                 0x4               src/box.c.18.o
+frameScoresLayout   0x4               src/box.c.18.o
+boxes               0x4               src/box.c.18.o
+scores_activity     0x18              src/box.c.18.o
+final_score_layer   0x4               src/box.c.18.o
+imageMenu           0x4               src/Ubicua.c.18.o
+varCompartida       0x4               src/Ubicua.c.18.o
+level               0x4               src/box.c.18.o
+window_struct       0x18              src/box.c.18.o
+imageFondo          0x4               src/box.c.18.o
+playBox             0x1               src/box.c.18.o
+animate             0x1               src/box.c.18.o
+lastDisplayed       0x4               src/box.c.18.o
+frameFondoLayout    0x4               src/box.c.18.o
+frameMenuLayout     0x4               src/Ubicua.c.18.o
 
 Discarded input sections
 
@@ -38,26 +40,26 @@ Discarded input sections
  .jcr           0x0000000000000000        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
  .tm_clone_table
                 0x0000000000000000        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
- .text          0x0000000000000000        0x0 src/Ubicua.c.17.o
- .bss           0x0000000000000000        0x0 src/Ubicua.c.17.o
- .text          0x0000000000000000        0x0 src/box.c.17.o
- .bss           0x0000000000000000        0x0 src/box.c.17.o
+ .text          0x0000000000000000        0x0 src/Ubicua.c.18.o
+ .bss           0x0000000000000000        0x0 src/Ubicua.c.18.o
+ .text          0x0000000000000000        0x0 src/box.c.18.o
+ .bss           0x0000000000000000        0x0 src/box.c.18.o
  .text.randomMax
-                0x0000000000000000       0x16 src/box.c.17.o
+                0x0000000000000000       0x16 src/box.c.18.o
  .text.randomMinMax
-                0x0000000000000000       0x1e src/box.c.17.o
- .text          0x0000000000000000        0x0 src/game.c.17.o
- .bss           0x0000000000000000        0x0 src/game.c.17.o
- .text          0x0000000000000000        0x0 src/menu.c.17.o
- .bss           0x0000000000000000        0x0 src/menu.c.17.o
- .text          0x0000000000000000        0x0 src/player.c.17.o
- .bss           0x0000000000000000        0x0 src/player.c.17.o
- .text          0x0000000000000000        0x0 src/scores.c.17.o
- .bss           0x0000000000000000        0x0 src/scores.c.17.o
+                0x0000000000000000       0x1e src/box.c.18.o
+ .text          0x0000000000000000        0x0 src/game.c.18.o
+ .bss           0x0000000000000000        0x0 src/game.c.18.o
+ .text          0x0000000000000000        0x0 src/menu.c.18.o
+ .bss           0x0000000000000000        0x0 src/menu.c.18.o
+ .text          0x0000000000000000        0x0 src/player.c.18.o
+ .bss           0x0000000000000000        0x0 src/player.c.18.o
+ .text          0x0000000000000000        0x0 src/scores.c.18.o
+ .bss           0x0000000000000000        0x0 src/scores.c.18.o
  .text.sawFinalScore
-                0x0000000000000000       0x30 src/scores.c.17.o
- .text          0x0000000000000000        0x0 appinfo.auto.c.17.o
- .bss           0x0000000000000000        0x0 appinfo.auto.c.17.o
+                0x0000000000000000       0x30 src/scores.c.18.o
+ .text          0x0000000000000000        0x0 appinfo.auto.c.18.o
+ .bss           0x0000000000000000        0x0 appinfo.auto.c.18.o
  .bss           0x0000000000000000        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
  .text.accel_data_service_subscribe__deprecated
                 0x0000000000000000        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
@@ -621,13 +623,13 @@ Linker script and memory map
 
 LOAD /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
 LOAD /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
-LOAD src/Ubicua.c.17.o
-LOAD src/box.c.17.o
-LOAD src/game.c.17.o
-LOAD src/menu.c.17.o
-LOAD src/player.c.17.o
-LOAD src/scores.c.17.o
-LOAD appinfo.auto.c.17.o
+LOAD src/Ubicua.c.18.o
+LOAD src/box.c.18.o
+LOAD src/game.c.18.o
+LOAD src/menu.c.18.o
+LOAD src/player.c.18.o
+LOAD src/scores.c.18.o
+LOAD appinfo.auto.c.18.o
 LOAD /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a
 START GROUP
 LOAD /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/libgcc.a
@@ -638,296 +640,302 @@ LOAD /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-non
 
 .header         0x0000000000000000       0x82
  *(.pbl_header)
- .pbl_header    0x0000000000000000       0x82 appinfo.auto.c.17.o
+ .pbl_header    0x0000000000000000       0x82 appinfo.auto.c.18.o
                 0x0000000000000000                __pbl_app_info
 
-.text           0x0000000000000084      0xe4c
+.text           0x0000000000000084      0xeb8
  *(.text)
  .text          0x0000000000000084       0x14 /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
  *(.text.*)
  .text.initializeApp
-                0x0000000000000098       0x18 src/Ubicua.c.17.o
+                0x0000000000000098       0x18 src/Ubicua.c.18.o
                 0x0000000000000098                initializeApp
- .text.quitApp  0x00000000000000b0        0x6 src/Ubicua.c.17.o
+ .text.quitApp  0x00000000000000b0        0x6 src/Ubicua.c.18.o
                 0x00000000000000b0                quitApp
  .text.startup.main
-                0x00000000000000b6       0x16 src/Ubicua.c.17.o
+                0x00000000000000b6       0x16 src/Ubicua.c.18.o
                 0x00000000000000b6                main
  .text.increaseLevel
-                0x00000000000000cc       0x50 src/box.c.17.o
+                0x00000000000000cc       0x50 src/box.c.18.o
                 0x00000000000000cc                increaseLevel
  .text.initializeBox
-                0x000000000000011c       0xd0 src/box.c.17.o
+                0x000000000000011c       0xd0 src/box.c.18.o
                 0x000000000000011c                initializeBox
  .text.stopDisplayingBox
-                0x00000000000001ec       0x20 src/box.c.17.o
+                0x00000000000001ec       0x20 src/box.c.18.o
                 0x00000000000001ec                stopDisplayingBox
  .text.displayBox
-                0x000000000000020c       0x44 src/box.c.17.o
+                0x000000000000020c       0x44 src/box.c.18.o
                 0x000000000000020c                displayBox
  .text.calculateCrash
-                0x0000000000000250       0x4c src/box.c.17.o
+                0x0000000000000250       0x4c src/box.c.18.o
                 0x0000000000000250                calculateCrash
  .text.animateBox
-                0x000000000000029c       0xd0 src/box.c.17.o
+                0x000000000000029c       0xd0 src/box.c.18.o
                 0x000000000000029c                animateBox
  .text.startDisplayingBox
-                0x000000000000036c       0x40 src/box.c.17.o
+                0x000000000000036c       0x40 src/box.c.18.o
                 0x000000000000036c                startDisplayingBox
  .text.game_config_provider
-                0x00000000000003ac       0x18 src/game.c.17.o
+                0x00000000000003ac       0x18 src/game.c.18.o
  .text.initGameWindow
-                0x00000000000003c4       0x6c src/game.c.17.o
+                0x00000000000003c4       0x6c src/game.c.18.o
                 0x00000000000003c4                initGameWindow
+ .text.initializeFondo
+                0x0000000000000430       0x60 src/game.c.18.o
+                0x0000000000000430                initializeFondo
  .text.initializeGame
-                0x0000000000000430       0x48 src/game.c.17.o
-                0x0000000000000430                initializeGame
+                0x0000000000000490       0x4c src/game.c.18.o
+                0x0000000000000490                initializeGame
  .text.deinitGame
-                0x0000000000000478       0xac src/game.c.17.o
-                0x0000000000000478                deinitGame
+                0x00000000000004dc       0xac src/game.c.18.o
+                0x00000000000004dc                deinitGame
  .text.gameOver
-                0x0000000000000524       0x1a src/game.c.17.o
-                0x0000000000000524                gameOver
- *fill*         0x000000000000053e        0x2 
+                0x0000000000000588       0x1a src/game.c.18.o
+                0x0000000000000588                gameOver
+ *fill*         0x00000000000005a2        0x2 
  .text.displayGameWindow
-                0x0000000000000540       0x18 src/game.c.17.o
-                0x0000000000000540                displayGameWindow
+                0x00000000000005a4       0x18 src/game.c.18.o
+                0x00000000000005a4                displayGameWindow
  .text.menu_config_provider
-                0x0000000000000558       0x10 src/menu.c.17.o
-                0x0000000000000558                menu_config_provider
+                0x00000000000005bc       0x10 src/menu.c.18.o
+                0x00000000000005bc                menu_config_provider
  .text.menuActionButton
-                0x0000000000000568       0x2c src/menu.c.17.o
+                0x00000000000005cc       0x2c src/menu.c.18.o
  .text.initMenuWindow
-                0x0000000000000594       0xa0 src/menu.c.17.o
-                0x0000000000000594                initMenuWindow
+                0x00000000000005f8       0xa0 src/menu.c.18.o
+                0x00000000000005f8                initMenuWindow
  .text.displayMenuWindow
-                0x0000000000000634       0x18 src/menu.c.17.o
-                0x0000000000000634                displayMenuWindow
+                0x0000000000000698       0x18 src/menu.c.18.o
+                0x0000000000000698                displayMenuWindow
  .text.startRunningGuy
-                0x000000000000064c       0x84 src/player.c.17.o
-                0x000000000000064c                startRunningGuy
+                0x00000000000006b0       0x84 src/player.c.18.o
+                0x00000000000006b0                startRunningGuy
  .text.initializeRunningFrames
-                0x00000000000006d0       0x4c src/player.c.17.o
-                0x00000000000006d0                initializeRunningFrames
+                0x0000000000000734       0x4c src/player.c.18.o
+                0x0000000000000734                initializeRunningFrames
  .text.initializeJumpingFrames
-                0x000000000000071c       0x44 src/player.c.17.o
-                0x000000000000071c                initializeJumpingFrames
+                0x0000000000000780       0x44 src/player.c.18.o
+                0x0000000000000780                initializeJumpingFrames
  .text.initializePlayer
-                0x0000000000000760       0x88 src/player.c.17.o
-                0x0000000000000760                initializePlayer
+                0x00000000000007c4       0x88 src/player.c.18.o
+                0x00000000000007c4                initializePlayer
  .text.startAnimation
-                0x00000000000007e8       0x38 src/player.c.17.o
-                0x00000000000007e8                startAnimation
- .text.jumpGuy  0x0000000000000820      0x174 src/player.c.17.o
-                0x0000000000000820                jumpGuy
+                0x000000000000084c       0x38 src/player.c.18.o
+                0x000000000000084c                startAnimation
+ .text.jumpGuy  0x0000000000000884      0x174 src/player.c.18.o
+                0x0000000000000884                jumpGuy
  .text.stopAllAnimation
-                0x0000000000000994       0x28 src/player.c.17.o
-                0x0000000000000994                stopAllAnimation
+                0x00000000000009f8       0x28 src/player.c.18.o
+                0x00000000000009f8                stopAllAnimation
  .text.up_click_jump_handler
-                0x00000000000009bc       0x28 src/player.c.17.o
-                0x00000000000009bc                up_click_jump_handler
+                0x0000000000000a20       0x28 src/player.c.18.o
+                0x0000000000000a20                up_click_jump_handler
  .text.scores_config_provider
-                0x00000000000009e4       0x2c src/scores.c.17.o
-                0x00000000000009e4                scores_config_provider
+                0x0000000000000a48       0x2c src/scores.c.18.o
+                0x0000000000000a48                scores_config_provider
  .text.scoresActionButton
-                0x0000000000000a10       0x14 src/scores.c.17.o
+                0x0000000000000a74       0x14 src/scores.c.18.o
  .text.stopScores
-                0x0000000000000a24       0x18 src/scores.c.17.o
-                0x0000000000000a24                stopScores
- .text.itoa     0x0000000000000a3c       0x58 src/scores.c.17.o
-                0x0000000000000a3c                itoa
+                0x0000000000000a88       0x18 src/scores.c.18.o
+                0x0000000000000a88                stopScores
+ .text.itoa     0x0000000000000aa0       0x58 src/scores.c.18.o
+                0x0000000000000aa0                itoa
  .text.initWindowScores
-                0x0000000000000a94       0xdc src/scores.c.17.o
-                0x0000000000000a94                initWindowScores
+                0x0000000000000af8       0xdc src/scores.c.18.o
+                0x0000000000000af8                initWindowScores
  .text.initializeScores
-                0x0000000000000b70       0xa4 src/scores.c.17.o
-                0x0000000000000b70                initializeScores
+                0x0000000000000bd4       0xa4 src/scores.c.18.o
+                0x0000000000000bd4                initializeScores
  .text.sawScore
-                0x0000000000000c14       0x48 src/scores.c.17.o
-                0x0000000000000c14                sawScore
+                0x0000000000000c78       0x48 src/scores.c.18.o
+                0x0000000000000c78                sawScore
  .text.increaseScores
-                0x0000000000000c5c       0x44 src/scores.c.17.o
-                0x0000000000000c5c                increaseScores
+                0x0000000000000cc0       0x44 src/scores.c.18.o
+                0x0000000000000cc0                increaseScores
  .text.displayScoreWindow
-                0x0000000000000ca0       0x24 src/scores.c.17.o
-                0x0000000000000ca0                displayScoreWindow
+                0x0000000000000d04       0x24 src/scores.c.18.o
+                0x0000000000000d04                displayScoreWindow
  .text.app_event_loop
-                0x0000000000000cc4        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000cc4                app_event_loop
- .text.app_log  0x0000000000000cd0        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000cd0                app_log
+                0x0000000000000d28        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d28                app_event_loop
+ .text.app_log  0x0000000000000d34        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d34                app_log
  .text.app_timer_register
-                0x0000000000000cdc        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000cdc                app_timer_register
+                0x0000000000000d40        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d40                app_timer_register
  .text.bitmap_layer_create
-                0x0000000000000ce8        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000ce8                bitmap_layer_create
+                0x0000000000000d4c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d4c                bitmap_layer_create
  .text.bitmap_layer_get_layer
-                0x0000000000000cf4        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000cf4                bitmap_layer_get_layer
+                0x0000000000000d58        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d58                bitmap_layer_get_layer
  .text.bitmap_layer_set_alignment
-                0x0000000000000d00        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d00                bitmap_layer_set_alignment
+                0x0000000000000d64        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d64                bitmap_layer_set_alignment
  .text.bitmap_layer_set_bitmap
-                0x0000000000000d0c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d0c                bitmap_layer_set_bitmap
- .text.free     0x0000000000000d18        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d18                free
+                0x0000000000000d70        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d70                bitmap_layer_set_bitmap
+ .text.free     0x0000000000000d7c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d7c                free
  .text.gbitmap_create_with_resource
-                0x0000000000000d24        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d24                gbitmap_create_with_resource
+                0x0000000000000d88        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d88                gbitmap_create_with_resource
  .text.gbitmap_destroy
-                0x0000000000000d30        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d30                gbitmap_destroy
+                0x0000000000000d94        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000d94                gbitmap_destroy
  .text.layer_add_child
-                0x0000000000000d3c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d3c                layer_add_child
+                0x0000000000000da0        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000da0                layer_add_child
  .text.layer_destroy
-                0x0000000000000d48        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d48                layer_destroy
+                0x0000000000000dac        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000dac                layer_destroy
  .text.layer_get_bounds
-                0x0000000000000d54        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d54                layer_get_bounds
+                0x0000000000000db8        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000db8                layer_get_bounds
  .text.layer_get_frame
-                0x0000000000000d60        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d60                layer_get_frame
+                0x0000000000000dc4        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000dc4                layer_get_frame
  .text.layer_remove_child_layers
-                0x0000000000000d6c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d6c                layer_remove_child_layers
+                0x0000000000000dd0        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000dd0                layer_remove_child_layers
  .text.layer_set_frame
-                0x0000000000000d78        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d78                layer_set_frame
+                0x0000000000000ddc        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000ddc                layer_set_frame
  .text.layer_set_hidden
-                0x0000000000000d84        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d84                layer_set_hidden
- .text.malloc   0x0000000000000d90        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d90                malloc
+                0x0000000000000de8        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000de8                layer_set_hidden
+ .text.malloc   0x0000000000000df4        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000df4                malloc
  .text.text_layer_create
-                0x0000000000000d9c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000d9c                text_layer_create
+                0x0000000000000e00        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e00                text_layer_create
  .text.text_layer_get_layer
-                0x0000000000000da8        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000da8                text_layer_get_layer
+                0x0000000000000e0c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e0c                text_layer_get_layer
  .text.text_layer_set_text
-                0x0000000000000db4        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000db4                text_layer_set_text
+                0x0000000000000e18        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e18                text_layer_set_text
  .text.window_create
-                0x0000000000000dc0        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000dc0                window_create
+                0x0000000000000e24        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e24                window_create
  .text.window_destroy
-                0x0000000000000dcc        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000dcc                window_destroy
+                0x0000000000000e30        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e30                window_destroy
  .text.window_get_root_layer
-                0x0000000000000dd8        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000dd8                window_get_root_layer
+                0x0000000000000e3c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e3c                window_get_root_layer
  .text.window_set_click_config_provider
-                0x0000000000000de4        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000de4                window_set_click_config_provider
+                0x0000000000000e48        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e48                window_set_click_config_provider
  .text.window_stack_pop
-                0x0000000000000df0        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000df0                window_stack_pop
+                0x0000000000000e54        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e54                window_stack_pop
  .text.window_stack_pop_all
-                0x0000000000000dfc        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000dfc                window_stack_pop_all
+                0x0000000000000e60        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e60                window_stack_pop_all
  .text.window_stack_push
-                0x0000000000000e08        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000e08                window_stack_push
+                0x0000000000000e6c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e6c                window_stack_push
  .text.window_stack_remove
-                0x0000000000000e14        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000e14                window_stack_remove
+                0x0000000000000e78        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e78                window_stack_remove
  .text.window_single_click_subscribe
-                0x0000000000000e20        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
-                0x0000000000000e20                window_single_click_subscribe
+                0x0000000000000e84        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+                0x0000000000000e84                window_single_click_subscribe
  *(.rodata)
- .rodata        0x0000000000000e2c        0x8 src/menu.c.17.o
- .rodata        0x0000000000000e34        0x8 src/player.c.17.o
- .rodata        0x0000000000000e3c       0x20 src/scores.c.17.o
+ .rodata        0x0000000000000e90        0x8 src/game.c.18.o
+ .rodata        0x0000000000000e98        0x8 src/menu.c.18.o
+ .rodata        0x0000000000000ea0        0x8 src/player.c.18.o
+ .rodata        0x0000000000000ea8       0x20 src/scores.c.18.o
  *(.rodata*)
  .rodata.str1.1
-                0x0000000000000e5c       0x1a src/Ubicua.c.17.o
+                0x0000000000000ec8       0x1a src/Ubicua.c.18.o
  .rodata.str1.1
-                0x0000000000000e76        0xc src/box.c.17.o
+                0x0000000000000ee2        0xc src/box.c.18.o
  .rodata.str1.1
-                0x0000000000000000        0xc src/game.c.17.o
- *fill*         0x0000000000000e82        0x2 
+                0x0000000000000000        0xc src/game.c.18.o
+ *fill*         0x0000000000000eee        0x2 
  .rodata.RESOURCE_IDS_RUNNING
-                0x0000000000000e84       0x18 src/player.c.17.o
+                0x0000000000000ef0       0x18 src/player.c.18.o
  .rodata.str1.1
-                0x0000000000000000        0xc src/player.c.17.o
+                0x0000000000000000        0xc src/player.c.18.o
  .rodata.str1.1
-                0x0000000000000e9c       0x34 src/scores.c.17.o
+                0x0000000000000f08       0x34 src/scores.c.18.o
                                          0x40 (size before relaxing)
 
-.glue_7         0x0000000000000ed0        0x0
+.glue_7         0x0000000000000f3c        0x0
  .glue_7        0x0000000000000000        0x0 linker stubs
 
-.glue_7t        0x0000000000000ed0        0x0
+.glue_7t        0x0000000000000f3c        0x0
  .glue_7t       0x0000000000000000        0x0 linker stubs
 
-.vfp11_veneer   0x0000000000000ed0        0x0
+.vfp11_veneer   0x0000000000000f3c        0x0
  .vfp11_veneer  0x0000000000000000        0x0 linker stubs
 
-.v4_bx          0x0000000000000ed0        0x0
+.v4_bx          0x0000000000000f3c        0x0
  .v4_bx         0x0000000000000000        0x0 linker stubs
 
-.iplt           0x0000000000000ed0        0x0
+.iplt           0x0000000000000f3c        0x0
  .iplt          0x0000000000000000        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
 
-.rel.dyn        0x0000000000000ed0        0x0
+.rel.dyn        0x0000000000000f3c        0x0
  .rel.iplt      0x0000000000000000        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
  .rel.got       0x0000000000000000        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
 
-.data           0x0000000000000ed0        0x4
+.data           0x0000000000000f3c        0x4
  *(.data)
- .data          0x0000000000000ed0        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
- .data          0x0000000000000ed0        0x4 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
-                0x0000000000000ed0                __dso_handle
- .data          0x0000000000000ed4        0x0 src/Ubicua.c.17.o
- .data          0x0000000000000ed4        0x0 src/box.c.17.o
- .data          0x0000000000000ed4        0x0 src/game.c.17.o
- .data          0x0000000000000ed4        0x0 src/menu.c.17.o
- .data          0x0000000000000ed4        0x0 src/player.c.17.o
- .data          0x0000000000000ed4        0x0 src/scores.c.17.o
- .data          0x0000000000000ed4        0x0 appinfo.auto.c.17.o
- .data          0x0000000000000ed4        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
- .data          0x0000000000000ed4        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
- .data          0x0000000000000ed4        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
+ .data          0x0000000000000f3c        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crti.o
+ .data          0x0000000000000f3c        0x4 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                0x0000000000000f3c                __dso_handle
+ .data          0x0000000000000f40        0x0 src/Ubicua.c.18.o
+ .data          0x0000000000000f40        0x0 src/box.c.18.o
+ .data          0x0000000000000f40        0x0 src/game.c.18.o
+ .data          0x0000000000000f40        0x0 src/menu.c.18.o
+ .data          0x0000000000000f40        0x0 src/player.c.18.o
+ .data          0x0000000000000f40        0x0 src/scores.c.18.o
+ .data          0x0000000000000f40        0x0 appinfo.auto.c.18.o
+ .data          0x0000000000000f40        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
+ .data          0x0000000000000f40        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
+ .data          0x0000000000000f40        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtn.o
  *(.data.*)
 
-.igot.plt       0x0000000000000ed4        0x0
+.igot.plt       0x0000000000000f40        0x0
  .igot.plt      0x0000000000000000        0x0 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
 
-.got            0x0000000000000ed4       0x48
- .got           0x0000000000000ed4       0x48 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+.got            0x0000000000000f40       0x50
+ .got           0x0000000000000f40       0x50 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
 
-.got.plt        0x0000000000000f1c        0xc
- .got.plt       0x0000000000000f1c        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
-                0x0000000000000f1c                _GLOBAL_OFFSET_TABLE_
+.got.plt        0x0000000000000f90        0xc
+ .got.plt       0x0000000000000f90        0xc /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
+                0x0000000000000f90                _GLOBAL_OFFSET_TABLE_
 
-.bss            0x0000000000000f28       0x90
+.bss            0x0000000000000f9c       0x98
  *(.bss)
  *(.bss.*)
- .bss.buff.6552
-                0x0000000000000f28       0x14 src/scores.c.17.o
- COMMON         0x0000000000000f3c       0x24 src/Ubicua.c.17.o
-                0x0000000000000f3c                menu_activity
-                0x0000000000000f54                imageMenu
-                0x0000000000000f58                varCompartida
-                0x0000000000000f5c                frameMenuLayout
- COMMON         0x0000000000000f60       0x58 src/box.c.17.o
-                0x0000000000000f60                imageScores
-                0x0000000000000f64                scores
-                0x0000000000000f68                peter
-                0x0000000000000f6c                box
-                0x0000000000000f70                frameScoresLayout
-                0x0000000000000f74                boxes
-                0x0000000000000f78                scores_activity
-                0x0000000000000f90                final_score_layer
-                0x0000000000000f94                level
-                0x0000000000000f98                window_struct
-                0x0000000000000fb0                playBox
-                0x0000000000000fb1                animate
-                0x0000000000000fb4                lastDisplayed
+ .bss.buff.6557
+                0x0000000000000f9c       0x14 src/scores.c.18.o
+ COMMON         0x0000000000000fb0       0x24 src/Ubicua.c.18.o
+                0x0000000000000fb0                menu_activity
+                0x0000000000000fc8                imageMenu
+                0x0000000000000fcc                varCompartida
+                0x0000000000000fd0                frameMenuLayout
+ COMMON         0x0000000000000fd4       0x60 src/box.c.18.o
+                0x0000000000000fd4                imageScores
+                0x0000000000000fd8                scores
+                0x0000000000000fdc                peter
+                0x0000000000000fe0                box
+                0x0000000000000fe4                frameScoresLayout
+                0x0000000000000fe8                boxes
+                0x0000000000000fec                scores_activity
+                0x0000000000001004                final_score_layer
+                0x0000000000001008                level
+                0x000000000000100c                window_struct
+                0x0000000000001024                imageFondo
+                0x0000000000001028                playBox
+                0x0000000000001029                animate
+                0x000000000000102c                lastDisplayed
+                0x0000000000001030                frameFondoLayout
 
 DISCARD
  libc.a(*)
@@ -943,19 +951,19 @@ OUTPUT(/Users/admin/pebble-dev/PebbleSDK-2.0.2/develop/runrunpeter/build/pebble-
  .ARM.attributes
                 0x0000000000000019       0x29 /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
  .ARM.attributes
-                0x0000000000000042       0x33 src/Ubicua.c.17.o
+                0x0000000000000042       0x33 src/Ubicua.c.18.o
  .ARM.attributes
-                0x0000000000000075       0x33 src/box.c.17.o
+                0x0000000000000075       0x33 src/box.c.18.o
  .ARM.attributes
-                0x00000000000000a8       0x33 src/game.c.17.o
+                0x00000000000000a8       0x33 src/game.c.18.o
  .ARM.attributes
-                0x00000000000000db       0x33 src/menu.c.17.o
+                0x00000000000000db       0x33 src/menu.c.18.o
  .ARM.attributes
-                0x000000000000010e       0x33 src/player.c.17.o
+                0x000000000000010e       0x33 src/player.c.18.o
  .ARM.attributes
-                0x0000000000000141       0x33 src/scores.c.17.o
+                0x0000000000000141       0x33 src/scores.c.18.o
  .ARM.attributes
-                0x0000000000000174       0x33 appinfo.auto.c.17.o
+                0x0000000000000174       0x33 appinfo.auto.c.18.o
  .ARM.attributes
                 0x00000000000001a7       0x21 /Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/lib/libpebble.a(tmpMw9aXupebble.o)
  .ARM.attributes
@@ -966,94 +974,94 @@ OUTPUT(/Users/admin/pebble-dev/PebbleSDK-2.0.2/develop/runrunpeter/build/pebble-
 .comment        0x0000000000000000       0x4e
  .comment       0x0000000000000000       0x4e /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtbegin.o
                                          0x4f (size before relaxing)
- .comment       0x0000000000000000       0x4f src/Ubicua.c.17.o
- .comment       0x0000000000000000       0x4f src/box.c.17.o
- .comment       0x0000000000000000       0x4f src/game.c.17.o
- .comment       0x0000000000000000       0x4f src/menu.c.17.o
- .comment       0x0000000000000000       0x4f src/player.c.17.o
- .comment       0x0000000000000000       0x4f src/scores.c.17.o
- .comment       0x0000000000000000       0x4f appinfo.auto.c.17.o
+ .comment       0x0000000000000000       0x4f src/Ubicua.c.18.o
+ .comment       0x0000000000000000       0x4f src/box.c.18.o
+ .comment       0x0000000000000000       0x4f src/game.c.18.o
+ .comment       0x0000000000000000       0x4f src/menu.c.18.o
+ .comment       0x0000000000000000       0x4f src/player.c.18.o
+ .comment       0x0000000000000000       0x4f src/scores.c.18.o
+ .comment       0x0000000000000000       0x4f appinfo.auto.c.18.o
  .comment       0x0000000000000000       0x4f /Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin/../lib/gcc/arm-none-eabi/4.7.2/thumb2/crtend.o
 
-.debug_info     0x0000000000000000     0x4486
- .debug_info    0x0000000000000000      0x485 src/Ubicua.c.17.o
- .debug_info    0x0000000000000485      0xc37 src/box.c.17.o
- .debug_info    0x00000000000010bc      0xc13 src/game.c.17.o
- .debug_info    0x0000000000001ccf      0xa94 src/menu.c.17.o
- .debug_info    0x0000000000002763      0xc69 src/player.c.17.o
- .debug_info    0x00000000000033cc      0xd5c src/scores.c.17.o
- .debug_info    0x0000000000004128      0x35e appinfo.auto.c.17.o
+.debug_info     0x0000000000000000     0x464a
+ .debug_info    0x0000000000000000      0x485 src/Ubicua.c.18.o
+ .debug_info    0x0000000000000485      0xc67 src/box.c.18.o
+ .debug_info    0x00000000000010ec      0xd0b src/game.c.18.o
+ .debug_info    0x0000000000001df7      0xac4 src/menu.c.18.o
+ .debug_info    0x00000000000028bb      0xc9f src/player.c.18.o
+ .debug_info    0x000000000000355a      0xd8c src/scores.c.18.o
+ .debug_info    0x00000000000042e6      0x364 appinfo.auto.c.18.o
 
 .debug_abbrev   0x0000000000000000     0x11bf
- .debug_abbrev  0x0000000000000000      0x20a src/Ubicua.c.17.o
- .debug_abbrev  0x000000000000020a      0x34d src/box.c.17.o
- .debug_abbrev  0x0000000000000557      0x2c8 src/game.c.17.o
- .debug_abbrev  0x000000000000081f      0x29e src/menu.c.17.o
- .debug_abbrev  0x0000000000000abd      0x341 src/player.c.17.o
- .debug_abbrev  0x0000000000000dfe      0x316 src/scores.c.17.o
- .debug_abbrev  0x0000000000001114       0xab appinfo.auto.c.17.o
+ .debug_abbrev  0x0000000000000000      0x20a src/Ubicua.c.18.o
+ .debug_abbrev  0x000000000000020a      0x34d src/box.c.18.o
+ .debug_abbrev  0x0000000000000557      0x2c8 src/game.c.18.o
+ .debug_abbrev  0x000000000000081f      0x29e src/menu.c.18.o
+ .debug_abbrev  0x0000000000000abd      0x341 src/player.c.18.o
+ .debug_abbrev  0x0000000000000dfe      0x316 src/scores.c.18.o
+ .debug_abbrev  0x0000000000001114       0xab appinfo.auto.c.18.o
 
-.debug_loc      0x0000000000000000      0x99d
- .debug_loc     0x0000000000000000       0x20 src/Ubicua.c.17.o
- .debug_loc     0x0000000000000020      0x2bf src/box.c.17.o
- .debug_loc     0x00000000000002df       0xb4 src/game.c.17.o
- .debug_loc     0x0000000000000393       0x61 src/menu.c.17.o
- .debug_loc     0x00000000000003f4      0x389 src/player.c.17.o
- .debug_loc     0x000000000000077d      0x220 src/scores.c.17.o
+.debug_loc      0x0000000000000000      0x9bd
+ .debug_loc     0x0000000000000000       0x20 src/Ubicua.c.18.o
+ .debug_loc     0x0000000000000020      0x2bf src/box.c.18.o
+ .debug_loc     0x00000000000002df       0xd4 src/game.c.18.o
+ .debug_loc     0x00000000000003b3       0x61 src/menu.c.18.o
+ .debug_loc     0x0000000000000414      0x389 src/player.c.18.o
+ .debug_loc     0x000000000000079d      0x220 src/scores.c.18.o
 
-.debug_aranges  0x0000000000000000      0x1e8
+.debug_aranges  0x0000000000000000      0x1f0
  .debug_aranges
-                0x0000000000000000       0x30 src/Ubicua.c.17.o
+                0x0000000000000000       0x30 src/Ubicua.c.18.o
  .debug_aranges
-                0x0000000000000030       0x60 src/box.c.17.o
+                0x0000000000000030       0x60 src/box.c.18.o
  .debug_aranges
-                0x0000000000000090       0x48 src/game.c.17.o
+                0x0000000000000090       0x50 src/game.c.18.o
  .debug_aranges
-                0x00000000000000d8       0x38 src/menu.c.17.o
+                0x00000000000000e0       0x38 src/menu.c.18.o
  .debug_aranges
-                0x0000000000000110       0x58 src/player.c.17.o
+                0x0000000000000118       0x58 src/player.c.18.o
  .debug_aranges
-                0x0000000000000168       0x68 src/scores.c.17.o
+                0x0000000000000170       0x68 src/scores.c.18.o
  .debug_aranges
-                0x00000000000001d0       0x18 appinfo.auto.c.17.o
+                0x00000000000001d8       0x18 appinfo.auto.c.18.o
 
-.debug_ranges   0x0000000000000000      0x230
- .debug_ranges  0x0000000000000000       0x20 src/Ubicua.c.17.o
- .debug_ranges  0x0000000000000020       0x98 src/box.c.17.o
- .debug_ranges  0x00000000000000b8       0x38 src/game.c.17.o
- .debug_ranges  0x00000000000000f0       0x28 src/menu.c.17.o
- .debug_ranges  0x0000000000000118       0xc0 src/player.c.17.o
- .debug_ranges  0x00000000000001d8       0x58 src/scores.c.17.o
+.debug_ranges   0x0000000000000000      0x238
+ .debug_ranges  0x0000000000000000       0x20 src/Ubicua.c.18.o
+ .debug_ranges  0x0000000000000020       0x98 src/box.c.18.o
+ .debug_ranges  0x00000000000000b8       0x40 src/game.c.18.o
+ .debug_ranges  0x00000000000000f8       0x28 src/menu.c.18.o
+ .debug_ranges  0x0000000000000120       0xc0 src/player.c.18.o
+ .debug_ranges  0x00000000000001e0       0x58 src/scores.c.18.o
 
-.debug_line     0x0000000000000000     0x102f
- .debug_line    0x0000000000000000      0x1a8 src/Ubicua.c.17.o
- .debug_line    0x00000000000001a8      0x290 src/box.c.17.o
- .debug_line    0x0000000000000438      0x2b1 src/game.c.17.o
- .debug_line    0x00000000000006e9      0x1fe src/menu.c.17.o
- .debug_line    0x00000000000008e7      0x2c3 src/player.c.17.o
- .debug_line    0x0000000000000baa      0x369 src/scores.c.17.o
- .debug_line    0x0000000000000f13      0x11c appinfo.auto.c.17.o
+.debug_line     0x0000000000000000     0x104f
+ .debug_line    0x0000000000000000      0x1a8 src/Ubicua.c.18.o
+ .debug_line    0x00000000000001a8      0x290 src/box.c.18.o
+ .debug_line    0x0000000000000438      0x2d1 src/game.c.18.o
+ .debug_line    0x0000000000000709      0x1fe src/menu.c.18.o
+ .debug_line    0x0000000000000907      0x2c3 src/player.c.18.o
+ .debug_line    0x0000000000000bca      0x369 src/scores.c.18.o
+ .debug_line    0x0000000000000f33      0x11c appinfo.auto.c.18.o
 
-.debug_str      0x0000000000000000      0xdca
- .debug_str     0x0000000000000000      0x2a1 src/Ubicua.c.17.o
+.debug_str      0x0000000000000000      0xe29
+ .debug_str     0x0000000000000000      0x2a1 src/Ubicua.c.18.o
                                         0x30d (size before relaxing)
- .debug_str     0x00000000000002a1      0x43f src/box.c.17.o
-                                        0x651 (size before relaxing)
- .debug_str     0x00000000000006e0      0x23f src/game.c.17.o
-                                        0x6b9 (size before relaxing)
- .debug_str     0x000000000000091f       0x34 src/menu.c.17.o
-                                        0x67e (size before relaxing)
- .debug_str     0x0000000000000953      0x243 src/player.c.17.o
-                                        0x804 (size before relaxing)
- .debug_str     0x0000000000000b96       0xde src/scores.c.17.o
-                                        0x787 (size before relaxing)
- .debug_str     0x0000000000000c74      0x156 appinfo.auto.c.17.o
-                                        0x415 (size before relaxing)
+ .debug_str     0x00000000000002a1      0x46a src/box.c.18.o
+                                        0x67c (size before relaxing)
+ .debug_str     0x000000000000070b      0x24f src/game.c.18.o
+                                        0x74d (size before relaxing)
+ .debug_str     0x000000000000095a       0x34 src/menu.c.18.o
+                                        0x6a9 (size before relaxing)
+ .debug_str     0x000000000000098e      0x267 src/player.c.18.o
+                                        0x853 (size before relaxing)
+ .debug_str     0x0000000000000bf5       0xde src/scores.c.18.o
+                                        0x7b2 (size before relaxing)
+ .debug_str     0x0000000000000cd3      0x156 appinfo.auto.c.18.o
+                                        0x439 (size before relaxing)
 
-.debug_frame    0x0000000000000000      0x448
- .debug_frame   0x0000000000000000       0x48 src/Ubicua.c.17.o
- .debug_frame   0x0000000000000048       0xfc src/box.c.17.o
- .debug_frame   0x0000000000000144       0xa4 src/game.c.17.o
- .debug_frame   0x00000000000001e8       0x6c src/menu.c.17.o
- .debug_frame   0x0000000000000254       0xd8 src/player.c.17.o
- .debug_frame   0x000000000000032c      0x11c src/scores.c.17.o
+.debug_frame    0x0000000000000000      0x468
+ .debug_frame   0x0000000000000000       0x48 src/Ubicua.c.18.o
+ .debug_frame   0x0000000000000048       0xfc src/box.c.18.o
+ .debug_frame   0x0000000000000144       0xc4 src/game.c.18.o
+ .debug_frame   0x0000000000000208       0x6c src/menu.c.18.o
+ .debug_frame   0x0000000000000274       0xd8 src/player.c.18.o
+ .debug_frame   0x000000000000034c      0x11c src/scores.c.18.o

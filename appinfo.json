@@ -61,6 +61,11 @@
         "type": "png",
         "name": "IMAGE_ACTION_ICON_FINAL",
         "file": "images/final.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_FONDO",
+        "file": "images/fondo.png"
       }
       ]
   }

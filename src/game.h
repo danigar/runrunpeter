@@ -14,16 +14,26 @@
 #ifndef _game_h
 #define _game_h
 
+static const int RESOURCE_FONDO = {
+    RESOURCE_ID_IMAGE_ACTION_ICON_FONDO
+};
+
+
 Player *peter;
 Box *box;
 int boxes;
 Scores *scores;
 System window_struct;
 
+GBitmap * imageFondo;
+BitmapLayer *frameFondoLayout;
+
+
 void initializeGame();
 void displayGameWindow();
 void deinitGame();
 void gameOver();
 void initGameWindow();
+void initializeFondo();
 
 #endif

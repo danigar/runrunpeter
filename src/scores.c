@@ -20,7 +20,7 @@ void initializeScores(){
     scores->increase = 1;
     scores->speed = 1000;
     scores->count = 1;
-    scores->score_layer = text_layer_create(GRect(5,5,50,50));
+    scores->score_layer = text_layer_create(GRect(5,5,50,20));
     final_score_layer = text_layer_create(GRect(70,80,30,30));
     app_timer_register(scores->speed,increaseScores,"pitos pitos");
     initWindowScores();

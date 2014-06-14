@@ -17,6 +17,7 @@ void initializeGame(){
     initGameWindow();
     peter = (Player*) malloc(sizeof(Player));
     box = (Box*) malloc(sizeof(Box));
+    initializeFondo();
     initializePlayer(peter);
     initializeBox(box);
     startRunningGuy();
@@ -29,6 +30,15 @@ void initGameWindow(){
     window_struct.frames = layer_get_frame(window_struct.window_layer);  //obtains main layer's
     window_set_click_config_provider(window_struct.window, game_config_provider);
     app_timer_register(2000,startDisplayingBox,"pitos pitos");
+}
+void initializeFondo(){
+    
+    imageFondo = gbitmap_create_with_resource(RESOURCE_FONDO); //load an image in memory
+    frameFondoLayout = bitmap_layer_create(GRect(0,0,144,60));
+    bitmap_layer_set_bitmap(frameFondoLayout,imageFondo);
+    layer_add_child(window_struct.window_layer,bitmap_layer_get_layer(frameFondoLayout));
+    
+    
 }
 
 
