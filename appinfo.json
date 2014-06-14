@@ -1,0 +1,67 @@
+{
+  "uuid": "48a58cd2-8121-4264-b205-be957e1012a7",
+  "shortName": "Ubicua",
+  "longName": "Ubicua",
+  "companyName": "PracticasPebble",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": [
+    {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_MONIGOTE1",
+        "file": "images/1.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_MONIGOTE2",
+        "file": "images/2.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_MONIGOTE3",
+        "file": "images/3.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_MONIGOTE4",
+        "file": "images/4.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_MONIGOTE5",
+        "file": "images/5.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_MONIGOTE6",
+        "file": "images/6.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_JUMPINGGUY",
+        "file": "images/jumpingguy.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_BOX",
+        "file": "images/box.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_START",
+        "file": "images/start.png"
+      },
+      {
+        "type": "png",
+        "name": "IMAGE_ACTION_ICON_FINAL",
+        "file": "images/final.png"
+      }
+      ]
+  }
+}

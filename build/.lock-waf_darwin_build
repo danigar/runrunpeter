@@ -1,0 +1,8 @@
+argv = ['/Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/waf', 'configure', 'build']
+environ = {'TERM_SESSION_ID': 'C9B4F416-F973-4D17-8A19-D59A914D1A4A', 'SSH_AUTH_SOCK': '/tmp/launch-yiiqVo/Listeners', 'PYTHONPATH': '/Users/admin/pebble-dev/PebbleSDK-2.0.2/bin/../.env/lib/python2.7/site-packages', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'admin', 'USER': 'admin', 'HOME': '/Users/admin', 'PATH': '/Users/admin/pebble-dev/PebbleSDK-2.0.2/arm-cs-tools/bin:/Users/admin/pebble-dev/PebbleSDK-2.0.2/bin:/Users/admin/pebble-dev/arm-cs-tools/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin', 'TMPDIR': '/var/folders/n7/t7bt05_90gn_mwrzcmbsjcfr0000gp/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'es_ES.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-LOcunr/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', '__CF_USER_TEXT_ENCODING': '0x1F6:0:8', 'PWD': '/Users/admin/pebble-dev/PebbleSDK-2.0.2/develop/runrunpeter', '_': '/Users/admin/pebble-dev/PebbleSDK-2.0.2/Pebble/waf', '__CHECKFIX1436934': '1'}
+files = ['/Users/admin/pebble-dev/PebbleSDK-2.0.2/develop/runrunpeter/wscript']
+hash = 4672844372416070989
+options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
+out_dir = '/Users/admin/pebble-dev/PebbleSDK-2.0.2/develop/runrunpeter/build'
+run_dir = '/Users/admin/pebble-dev/PebbleSDK-2.0.2/develop/runrunpeter'
+top_dir = '/Users/admin/pebble-dev/PebbleSDK-2.0.2/develop/runrunpeter'
